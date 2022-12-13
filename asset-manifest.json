@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wongfolio/static/css/main.7615e56c.css",
-    "main.js": "/wongfolio/static/js/main.564f2f71.js",
-    "static/js/787.c734b7f0.chunk.js": "/wongfolio/static/js/787.c734b7f0.chunk.js",
-    "index.html": "/wongfolio/index.html",
-    "main.7615e56c.css.map": "/wongfolio/static/css/main.7615e56c.css.map",
-    "main.564f2f71.js.map": "/wongfolio/static/js/main.564f2f71.js.map",
-    "787.c734b7f0.chunk.js.map": "/wongfolio/static/js/787.c734b7f0.chunk.js.map"
+    "main.css": "/static/css/main.c2cc7041.css",
+    "main.js": "/static/js/main.9992c1d7.js",
+    "static/js/787.c734b7f0.chunk.js": "/static/js/787.c734b7f0.chunk.js",
+    "index.html": "/index.html",
+    "main.c2cc7041.css.map": "/static/css/main.c2cc7041.css.map",
+    "main.9992c1d7.js.map": "/static/js/main.9992c1d7.js.map",
+    "787.c734b7f0.chunk.js.map": "/static/js/787.c734b7f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7615e56c.css",
-    "static/js/main.564f2f71.js"
+    "static/css/main.c2cc7041.css",
+    "static/js/main.9992c1d7.js"
   ]
 }
